@@ -1,51 +1,178 @@
-# Hi, I'm Imtiaaz
+<div align="center">
 
-Backend developer focused on building web applications, REST APIs, and database-driven systems.
+<img src="YOUR_HEADER_IMAGE_URL" alt="Imtiaaz Adewuyi — Backend Developer" width="100%">
 
-I work primarily with **JavaScript, Node.js, Express.js, and MongoDB**, while expanding into **Linux, DevOps, and system design**.
+</div>
 
-## What I Build
+<h1 align="center">Hi, I'm Imtiaaz</h1>
+
+<p align="center">
+  <strong>Backend Developer</strong> building web applications, APIs, and database-driven systems.
+</p>
+
+<p align="center">
+  <code>Node.js</code> · <code>Express.js</code> · <code>MongoDB</code> · <code>REST APIs</code>
+</p>
+
+<br>
+
+> **Build → Break → Understand → Improve**
+
+I learn engineering by building real systems, testing them, understanding why they fail, and improving the design rather than simply making something work.
+
+---
+
+## ⚙️ What I Build
 
 * RESTful APIs
-* Authentication and authorization systems
+* Authentication & authorization systems
 * Database-driven applications
-* Business and inventory management systems
+* Business & inventory management systems
 * Multi-tenant SaaS applications
+* Backend services and application infrastructure
 
-## Tech Stack
+---
 
-**Backend:**
-JavaScript · Node.js · Express.js · REST APIs
-
-**Database:**
-MongoDB · Mongoose · MongoDB Atlas
-
-**Tools:**
-Git · GitHub · Postman · VS Code
-
-**Currently Learning:**
-Linux · DevOps · Docker · CI/CD · System Design
-
-## Featured Projects
+## 🚧 Currently Building
 
 ### BusinessOS
 
-A multi-tenant business management platform designed to help businesses manage operations such as products, inventory, suppliers, sales, purchases, expenses, and reporting.
+A multi-tenant business management platform I'm building as a long-term engineering project.
 
-### StockSense / Inventra
+The goal is not simply to build another CRUD application, but to explore how a real SaaS platform is designed—from authentication and data isolation to business operations, APIs, infrastructure, and deployment.
 
-Backend engineering work focused on inventory and business management, including authentication, inventory operations, suppliers, purchase orders, products, categories, alerts, and related APIs.
+**Exploring:**
+`SaaS Architecture` · `Multi-tenancy` · `Authentication` · `RBAC` · `Databases` · `APIs`
 
-### ThirdCommit
+---
 
-A game-development project exploring GDScript and the Godot ecosystem.
+## 🚀 Featured Projects
 
-## Engineering Focus
+### 🏢 BusinessOS
 
-I'm particularly interested in **backend engineering, APIs, databases, web security, and infrastructure**.
+A multi-tenant business management platform for managing products, inventory, suppliers, customers, sales, purchases, expenses, reporting, and other business operations.
 
-I learn by building systems, testing them, breaking them, and improving them.
+**Focus:** Backend architecture · APIs · Authentication · Databases · SaaS
 
-## Connect
+---
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/Aliaaz-dev)
+### 📦 StockSense / Inventra
+
+A team-based business and inventory management system involving backend architecture, authentication, inventory operations, suppliers, purchase orders, products, categories, stock management, and alerts.
+
+**Focus:** Backend development · REST APIs · MongoDB · Team collaboration
+
+---
+
+### 🎮 ThirdCommit
+
+A game-development project exploring **GDScript and Godot**.
+
+A different kind of engineering problem from my usual backend work, giving me experience with game logic, state, and interactive systems.
+
+**Focus:** GDScript · Godot · Game development · Problem solving
+
+---
+
+### 🌐 Portfolio
+
+My personal developer portfolio where I showcase my projects, skills, and engineering journey.
+
+**Focus:** Web development · Personal branding
+
+---
+
+## 🧰 Tech Stack
+
+### Backend
+
+`JavaScript` · `Node.js` · `Express.js` · `REST APIs` · `JWT`
+
+### Databases
+
+`MongoDB` · `Mongoose` · `MongoDB Atlas`
+
+### Tools
+
+`Git` · `GitHub` · `Postman` · `VS Code`
+
+### Expanding Into
+
+`Linux` · `Docker` · `CI/CD` · `DevOps` · `System Design`
+
+---
+
+## 🧠 Engineering Focus
+
+My interests sit around the intersection of:
+
+**Applications → APIs → Databases → Infrastructure**
+
+I'm particularly interested in:
+
+* Backend engineering
+* API design
+* Database architecture
+* Web & API security
+* Linux and infrastructure
+* DevOps
+* System design
+
+---
+
+## 🔭 Current Direction
+
+I'm moving deeper into backend engineering while expanding toward infrastructure and security.
+
+The path I'm currently exploring is:
+
+```text
+Backend Development
+        ↓
+Linux & Networking
+        ↓
+Docker & Infrastructure
+        ↓
+CI/CD & DevOps
+        ↓
+System Design & Security
+```
+
+---
+
+## 🧪 How I Learn
+
+I don't want to only know **how** to use a technology.
+
+I want to understand:
+
+**Why does it work?**
+**What happens underneath?**
+**What happens when it fails?**
+**How can it be made better?**
+
+That's why most of my learning eventually becomes a project.
+
+---
+
+## 📌 Engineering Philosophy
+
+> **Don't just make it work. Understand why it works.**
+
+Good engineering isn't only about writing code.
+
+It's about making decisions you can explain, building systems you can reason about, and being willing to revisit those decisions when the system proves you wrong.
+
+---
+
+## 🤝 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/imtiaazadewuyi">LinkedIn</a>
+  ·
+  <a href="https://github.com/Aliaaz-dev">GitHub</a>
+</p>
+
+<p align="center">
+  <i>Building, breaking, learning, and improving.</i>
+</p>
